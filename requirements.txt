@@ -2,3 +2,5 @@ transformers
 datasets
 evaluate
 jiwer
+wandb
+tensorboard
