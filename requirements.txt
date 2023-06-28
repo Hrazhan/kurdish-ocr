@@ -1,6 +1,8 @@
 transformers
 datasets
+apache_beam
 evaluate
 jiwer
 wandb
 tensorboard
+git+https://github.com/Nicolaus93/craft-text-detector.git
